@@ -11,19 +11,33 @@ O Selenium é uma biblioteca amplamente usada para automação de testes em apli
 Neste projeto, utilizamos o Selenium para automatizar a coleta de cotações de commodities de um site. A ideia principal é:
 
   - Coleta de Dados: Navegar até o site que fornece as cotações das commodities.
+    
   - Extração de Dados: Utilizar o Selenium para extrair os dados das cotações, como nome da commodity e preço atual.
+    
   - Comparação com Preço Ideal: Comparar os preços das commodities com um preço ideal de compra previamente definido.
+    
   - Ações de Compra: Marcar as commodities que estão abaixo do preço ideal como alvos para a equipe de operações realizar a compra.
+    
   - Fluxo do Projeto
+    
   - Configuração do ambiente com o Selenium.
+    
   - Navegação até o site de cotações de commodities.
+    
   - Extração dos dados relevantes das cotações.
+    
   - Comparação dos preços com os preços ideais de compra.
+    
   - Identificação e marcação das commodities para ações de compra.
+    
   - Executando o Projeto
+    
   - Clone este repositório para o seu ambiente local.
+    
   - Certifique-se de ter o Selenium instalado: pip install selenium.
+    
   - Configure o Selenium para usar o navegador desejado (por exemplo, Chrome ou Firefox).
+    
   - Execute o script de web scraping, que automatiza a coleta e análise das cotações.
   
 **Observações**
