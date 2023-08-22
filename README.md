@@ -44,5 +44,7 @@ Neste projeto, utilizamos o Selenium para automatizar a coleta de cotações de 
 Certifique-se de respeitar os termos de uso e políticas do site de onde você está coletando os dados.
 Este projeto é um exemplo didático de como o web scraping pode ser aplicado para automação de coleta de informações. Adapte-o conforme necessário para suas necessidades e contexto específico.
 
+
 Autor: Eduardo Ojr
+
 Contato: edu.deoli@gmail.com
